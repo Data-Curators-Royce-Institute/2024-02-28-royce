@@ -109,7 +109,7 @@ AUDIENCE
 Explain who your audience is.  (In particular, tell readers if the
 workshop is only open to people from a particular institution.
 {% endcomment %}
-{% include custom_who.html %}
+{% include custom-who.html %}
 
 {% comment %}
 LOCATION
